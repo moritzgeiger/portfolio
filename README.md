@@ -16,8 +16,8 @@ This notebook tries to find a model to count the amount of stacked metal sheets 
 
 ---------------------------------
 
-3. [Artist recommender](https://github.com/moritzgeiger/portfolio/blob/master/Artist_recommender.ipynb)
+3. [Artist recommender](blob/master/Artist_recommender.ipynb)
 
 A short guide to a simple music artist recommender app. The data set of over 1m rows is accessible on [Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks).
 
-The recommender was pushed to Heroku and can be accessed here: [Artist Recommender](artist-recommender.herokuapp.com/). Try it yourself :)
+The recommender was pushed to Heroku and can be accessed here: [Artist Recommender](https://artist-recommender.herokuapp.com/). Try it yourself :)
